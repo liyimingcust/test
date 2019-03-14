@@ -1,5 +1,5 @@
 {
-	"name": "liyimingcust/testcomposer",
+	"name": "liyimingcust/test",
 
 	"require": {
 		"aliyuncs/oss-sdk-php": "^2.3",
